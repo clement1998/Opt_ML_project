@@ -21,7 +21,12 @@ This project is composed of:
 
 ### How to use the Python Notebook?
 
-The notebook created and launched under Google Collab
+The notebook created and launched under Google Collab.
+
+You can run all the notebook at once, it will choose the GPU if available otherwise the CPU will be used.
+The results are saved on the drive under the folder OptML_project/, to be used and plot later.
+
+Running this notebook will give you our baseline result, our other result can be obtained when changing the parameters of the train_model function and using the sqrt/linearScaleRule as shown in the comment part of the function main.
 
 
 
