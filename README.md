@@ -6,6 +6,7 @@ Project in Optimization for Machine Learning made by Loïc Signer and Clément B
 ## Structure
 
 This project is composed of:
+
 	*How_to_achieve_large_batch_size_training_of_a_DNN_with_SGD_by_adjusting_hyperparameters.pdf: The report of our project
 	*Bibliography: All the articles cited in the report
 	*Results: Folder where the results of the models where saved
