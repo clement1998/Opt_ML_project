@@ -1,6 +1,6 @@
 # Opt_ML_project
 
-Project in Optimization for Machine Learning made by Loïc Signer and Clément Barbier on:
+Project in Optimization for Machine Learning made by Loïc Signer and Clément Barbier on: How to achieve large batch size training of a DNN with SGD by adjusting hyperparameters?
 
 
 ## Structure
